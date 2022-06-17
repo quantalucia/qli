@@ -1,6 +1,8 @@
 # Economy Map
 code name "burray" to help us get more insightful about global economy
 
+![Global Economy Map](concept.png)]
+
 # Methodologies
 
 - Wadley Map (https://miro.com/blog/wardley-maps-whiteboard-canvas/)
