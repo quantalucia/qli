@@ -1,7 +1,7 @@
 # Economy Map
 code name "burray" to help us get more insightful about global economy
 
-![Global Economy Map](concept.png)]
+![Global Economy Map](concept.drawio.png)]
 
 # Methodologies
 
