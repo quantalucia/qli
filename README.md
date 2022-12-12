@@ -1,7 +1,7 @@
 # Quanta Liquidity Index
 Mapping liquidity level in global economy 
 
-![Global Economy Map](concept.drawio.png)]
+![Global Economy Map](concept.drawio.png)
 
 # Methodologies
 
